@@ -16,6 +16,8 @@
 - Noise is suppressed and very accurate positioning of the peak (target) compared to the example
 in the walkthrough is obtained. 
 
+![Image1](https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Final_Result_Image.jpg)
+
 ## Special Notes:
 * Selection of Training, Guard cells and offset:
 - Training cells on both dimensions, I have chosen it to be 16.
