@@ -16,10 +16,20 @@
 - Noise is suppressed and very accurate positioning of the peak (target) compared to the example
 in the walkthrough is obtained. 
 
-<figure>
-  <img src="https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Final_Result_Image.jpg" alt=".." title="CFAR Result on Range Doppler Map" />
-  <figcaption>Optional title</figcaption>
-</figure>
+<div align="center">
+##### Range-Doppler-Map with noise!
+</div>
+<img src="https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Final_Result_Image.jpg" width="700" height="400"/>
+
+<div align="center">
+##### Final Result: CFAR on Range-Doppler-Map!
+</div>
+<img src="https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Range_Doppler_Map_with_noise.jpg" width="700" height="400"/>
+
+<div align="center">
+##### Range Result from 1D-FFT!
+</div>
+<img src="https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Range_Result_from_1D_fft.jpg" width="700" height="400"/>
 
 ## Special Notes:
 * Selection of Training, Guard cells and offset:
