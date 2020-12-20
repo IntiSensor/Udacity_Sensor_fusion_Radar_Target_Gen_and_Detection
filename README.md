@@ -16,7 +16,10 @@
 - Noise is suppressed and very accurate positioning of the peak (target) compared to the example
 in the walkthrough is obtained. 
 
-![Image1](https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Final_Result_Image.jpg)
+<figure>
+  <img src="https://github.com/diwamanic/Udacity_Sensor_fusion_Radar_Target_Generation_and_Detection/blob/master/Media/Final_Result_Image.jpg" alt=".." title="CFAR Result on Range Doppler Map" />
+  <figcaption>Optional title</figcaption>
+</figure>
 
 ## Special Notes:
 * Selection of Training, Guard cells and offset:
