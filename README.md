@@ -1,4 +1,4 @@
-# README outlining the project rubric points
+## README outlining the project rubric points
 
 * FMCW Waveform Design
 - Designed a Waveform design with the given specifications. 
